@@ -117,9 +117,24 @@ deployed link for demo:-
 - Chakra Ui
 
 
-## Status
+### Installation
 
-This project is completed. 
+1. Clone the repository:
+
+   ```bash
+   https://github.com/Biswajit2595/warlike-current-5989
+
+ ## Project Setup
+ 
+1. **Open a new terminal and navigate back to the project root (`warlike-current-5989`).**
+
+2. **Navigate to the upstyle directory:**
+
+   ```bash
+   cd upstyle
+   npm install
+   npm start
+   
 ## Final Words
 
 Thank you for staying with me up to this point. Suggestions and feedbacks are always welcomed.😃
